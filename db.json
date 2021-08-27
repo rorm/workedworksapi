@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "sessions": [
+  {
+    startHour: 0,
+    startMinute: 15,
+    endHour: 1,
+    endMinute: 15,
+    duration: 60
+  },
+  {
+    startHour: 1,
+    startMinute: 45,
+    endHour: 3,
+    endMinute: 15,
+    duration: 90
+  },
+  {
+    startHour: 4,
+    startMinute: 7,
+    endHour: 4,
+    endMinute: 37,
+    duration: 30
+  },
+  {
+    startHour: 4,
+    startMinute: 45,
+    endHour: 4,
+    endMinute: 57,
+    duration: 12
+  },
+  {
+    startHour: 11,
+    startMinute: 40,
+    endHour: 13,
+    endMinute: 10,
+    duration: 90
   }
+]
 }
