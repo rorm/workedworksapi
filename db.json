@@ -1,39 +1,39 @@
 {
   "sessions": [
   {
-    startHour: 0,
-    startMinute: 15,
-    endHour: 1,
-    endMinute: 15,
-    duration: 60
+    "startHour": 0,
+    "startMinute": 15,
+    "endHour": 1,
+    "endMinute": 15,
+    "duration": 60
   },
   {
-    startHour: 1,
-    startMinute: 45,
-    endHour: 3,
-    endMinute: 15,
-    duration: 90
+    "startHour": 1,
+    "startMinute": 45,
+    "endHour": 3,
+    "endMinute": 15,
+    "duration": 90
   },
   {
-    startHour: 4,
-    startMinute: 7,
-    endHour: 4,
-    endMinute: 37,
-    duration: 30
+    "startHour": 4,
+    "startMinute": 7,
+    "endHour": 4,
+    "endMinute": 37,
+    "duration": 30
   },
   {
-    startHour: 4,
-    startMinute: 45,
-    endHour: 4,
-    endMinute: 57,
-    duration: 12
+    "startHour": 4,
+    "startMinute": 45,
+    "endHour": 4,
+    "endMinute": 57,
+    "duration": 12
   },
   {
-    startHour: 11,
-    startMinute: 40,
-    endHour: 13,
-    endMinute: 10,
-    duration: 90
+    "startHour": 11,
+    "startMinute": 40,
+    "endHour": 13,
+    "endMinute": 10,
+    "duration": 90
   }
 ]
 }
