@@ -1,106 +1,107 @@
 {
   "day": [
-  {
-    sessionId: "b72b7049-0ae5-4b28-a919-b5620858a8ad",
-    startHour: 11,
-    startMinute: 40,
-    endHour: 13,
-    endMinute: 10,
-    duration: 90,
-    completed: true
-  },
-  {
-    sessionId: "f17ed20d-5587-47d7-8df3-e3f8fbedd61f",
-    startHour: 18,
-    startMinute: 40,
-    endHour: 18,
-    endMinute: 55,
-    duration: 15,
-    completed: true
-  }
-], "week": [
-  {
-    sessionId: "e8e6e17c-a143-4c01-9d6b-952fdb711d27",
-    startHour: 4,
-    startMinute: 45,
-    endHour: 4,
-    endMinute: 57,
-    duration: 12,
-    completed: true
-  },
-  {
-    sessionId: "b72b7049-0ae5-4b28-a919-b5620858a8ad",
-    startHour: 11,
-    startMinute: 40,
-    endHour: 13,
-    endMinute: 10,
-    duration: 90,
-    completed: true
-  },
-  {
-    sessionId: "f17ed20d-5587-47d7-8df3-e3f8fbedd61f",
-    startHour: 18,
-    startMinute: 40,
-    endHour: 18,
-    endMinute: 55,
-    duration: 15,
-    completed: true
-  }
-], "month": [
-  {
-    sessionId: "3d6bbf98-d66c-4c20-8e20-91daffb77c95",
-    startHour: 0,
-    startMinute: 15,
-    endHour: 1,
-    endMinute: 15,
-    duration: 60,
-    completed: true
-  },
-  {
-    sessionId: "9c456014-aa05-4e04-8128-6bc4c95e3e29",
-    startHour: 1,
-    startMinute: 45,
-    endHour: 3,
-    endMinute: 15,
-    duration: 90,
-    completed: true
-  },
-  {
-    sessionId: "18c68099-4b4b-492f-94bf-b0ee2585cb19",
-    startHour: 4,
-    startMinute: 7,
-    endHour: 4,
-    endMinute: 37,
-    duration: 30,
-    completed: true
-  },
-  {
-    sessionId: "e8e6e17c-a143-4c01-9d6b-952fdb711d27",
-    startHour: 4,
-    startMinute: 45,
-    endHour: 4,
-    endMinute: 57,
-    duration: 12,
-    completed: true
-  },
-  {
-    sessionId: "b72b7049-0ae5-4b28-a919-b5620858a8ad",
-    startHour: 11,
-    startMinute: 40,
-    endHour: 13,
-    endMinute: 10,
-    duration: 90,
-    completed: true
-  },
-  {
-    sessionId: "f17ed20d-5587-47d7-8df3-e3f8fbedd61f",
-    startHour: 18,
-    startMinute: 40,
-    endHour: 18,
-    endMinute: 55,
-    duration: 15,
-    completed: true
-  }
-];
-
+    {
+      "sessionId": "b72b7049-0ae5-4b28-a919-b5620858a8ad",
+      "startHour": 11,
+      "startMinute": 40,
+      "endHour": 13,
+      "endMinute": 10,
+      "duration": 90,
+      "completed": true
+    },
+    {
+      "sessionId": "f17ed20d-5587-47d7-8df3-e3f8fbedd61f",
+      "startHour": 18,
+      "startMinute": 40,
+      "endHour": 18,
+      "endMinute": 55,
+      "duration": 15,
+      "completed": true
+    }
+  ],
+  "week": [
+    {
+      "sessionId": "e8e6e17c-a143-4c01-9d6b-952fdb711d27",
+      "startHour": 4,
+      "startMinute": 45,
+      "endHour": 4,
+      "endMinute": 57,
+      "duration": 12,
+      "completed": true
+    },
+    {
+      "sessionId": "b72b7049-0ae5-4b28-a919-b5620858a8ad",
+      "startHour": 11,
+      "startMinute": 40,
+      "endHour": 13,
+      "endMinute": 10,
+      "duration": 90,
+      "completed": true
+    },
+    {
+      "sessionId": "f17ed20d-5587-47d7-8df3-e3f8fbedd61f",
+      "startHour": 18,
+      "startMinute": 40,
+      "endHour": 18,
+      "endMinute": 55,
+      "duration": 15,
+      "completed": true
+    }
+  ],
+  "month": [
+    {
+      "sessionId": "3d6bbf98-d66c-4c20-8e20-91daffb77c95",
+      "startHour": 0,
+      "startMinute": 15,
+      "endHour": 1,
+      "endMinute": 15,
+      "duration": 60,
+      "completed": true
+    },
+    {
+      "sessionId": "9c456014-aa05-4e04-8128-6bc4c95e3e29",
+      "startHour": 1,
+      "startMinute": 45,
+      "endHour": 3,
+      "endMinute": 15,
+      "duration": 90,
+      "completed": true
+    },
+    {
+      "sessionId": "18c68099-4b4b-492f-94bf-b0ee2585cb19",
+      "startHour": 4,
+      "startMinute": 7,
+      "endHour": 4,
+      "endMinute": 37,
+      "duration": 30,
+      "completed": true
+    },
+    {
+      "sessionId": "e8e6e17c-a143-4c01-9d6b-952fdb711d27",
+      "startHour": 4,
+      "startMinute": 45,
+      "endHour": 4,
+      "endMinute": 57,
+      "duration": 12,
+      "completed": true
+    },
+    {
+      "sessionId": "b72b7049-0ae5-4b28-a919-b5620858a8ad",
+      "startHour": 11,
+      "startMinute": 40,
+      "endHour": 13,
+      "endMinute": 10,
+      "duration": 90,
+      "completed": true
+    },
+    {
+      "sessionId": "f17ed20d-5587-47d7-8df3-e3f8fbedd61f",
+      "startHour": 18,
+      "startMinute": 40,
+      "endHour": 18,
+      "endMinute": 55,
+      "duration": 15,
+      "completed": true
+    }
+  ]
 }
