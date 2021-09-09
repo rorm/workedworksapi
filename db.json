@@ -4,18 +4,9 @@
       "sessionId": "b72b7049-0ae5-4b28-a919-b5620858a8ad",
       "startHour": 11,
       "startMinute": 40,
-      "endHour": 13,
+      "endHour": 14,
       "endMinute": 10,
-      "duration": 90,
-      "completed": true
-    },
-    {
-      "sessionId": "h90b2334-3de5-9k28-b519-b5452858a8ad",
-      "startHour": 13,
-      "startMinute": 30,
-      "endHour": 13,
-      "endMinute": 50,
-      "duration": 20,
+      "duration": 150,
       "completed": true
     },
     {
