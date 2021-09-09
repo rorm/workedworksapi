@@ -10,6 +10,15 @@
       "completed": true
     },
     {
+      "sessionId": "h90b2334-3de5-9k28-b519-b5452858a8ad",
+      "startHour": 13,
+      "startMinute": 30,
+      "endHour": 13,
+      "endMinute": 50,
+      "duration": 20,
+      "completed": true
+    },
+    {
       "sessionId": "f17ed20d-5587-47d7-8df3-e3f8fbedd61f",
       "startHour": 18,
       "startMinute": 40,
@@ -36,6 +45,15 @@
       "endHour": 13,
       "endMinute": 10,
       "duration": 90,
+      "completed": true
+    },
+    {
+      "sessionId": "h90b2334-3de5-9k28-b519-b5452858a8ad",
+      "startHour": 13,
+      "startMinute": 30,
+      "endHour": 13,
+      "endMinute": 50,
+      "duration": 20,
       "completed": true
     },
     {
@@ -92,6 +110,15 @@
       "endHour": 13,
       "endMinute": 10,
       "duration": 90,
+      "completed": true
+    },
+    {
+      "sessionId": "h90b2334-3de5-9k28-b519-b5452858a8ad",
+      "startHour": 13,
+      "startMinute": 30,
+      "endHour": 13,
+      "endMinute": 50,
+      "duration": 20,
       "completed": true
     },
     {
